@@ -1,0 +1,15 @@
+D:\CSharp9Practise\CSharp9Practise\bin\Debug\net5.0\CSharp9Practise.exe
+D:\CSharp9Practise\CSharp9Practise\bin\Debug\net5.0\CSharp9Practise.deps.json
+D:\CSharp9Practise\CSharp9Practise\bin\Debug\net5.0\CSharp9Practise.runtimeconfig.json
+D:\CSharp9Practise\CSharp9Practise\bin\Debug\net5.0\CSharp9Practise.runtimeconfig.dev.json
+D:\CSharp9Practise\CSharp9Practise\bin\Debug\net5.0\CSharp9Practise.dll
+D:\CSharp9Practise\CSharp9Practise\bin\Debug\net5.0\ref\CSharp9Practise.dll
+D:\CSharp9Practise\CSharp9Practise\bin\Debug\net5.0\CSharp9Practise.pdb
+D:\CSharp9Practise\CSharp9Practise\obj\Debug\net5.0\CSharp9Practise.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp9Practise\CSharp9Practise\obj\Debug\net5.0\CSharp9Practise.AssemblyInfoInputs.cache
+D:\CSharp9Practise\CSharp9Practise\obj\Debug\net5.0\CSharp9Practise.AssemblyInfo.cs
+D:\CSharp9Practise\CSharp9Practise\obj\Debug\net5.0\CSharp9Practise.csproj.CoreCompileInputs.cache
+D:\CSharp9Practise\CSharp9Practise\obj\Debug\net5.0\CSharp9Practise.dll
+D:\CSharp9Practise\CSharp9Practise\obj\Debug\net5.0\ref\CSharp9Practise.dll
+D:\CSharp9Practise\CSharp9Practise\obj\Debug\net5.0\CSharp9Practise.pdb
+D:\CSharp9Practise\CSharp9Practise\obj\Debug\net5.0\CSharp9Practise.genruntimeconfig.cache
